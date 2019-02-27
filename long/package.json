@@ -7,9 +7,11 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@antv/data-set": "^0.9.3",
     "antd": "^3.7.0",
     "antd-init": "^2.0.6",
     "babel-plugin-import": "^1.8.0",
+    "bizcharts": "^3.2.2",
     "classnames": "^2.2.6",
     "dva": "^2.3.1",
     "moment": "^2.22.2",
